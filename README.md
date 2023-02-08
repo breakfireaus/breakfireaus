@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 
 - 🔭 I’m currently working on more self made projects
 - 🌱 I’m currently learning Next.JS
@@ -10,4 +10,4 @@
 - 📫 You can reach me on linkedin
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a brazilian dancer in my other life
--->
+
